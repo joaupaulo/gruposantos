@@ -132,6 +132,36 @@ body{
     padding-top: 126px;
 }
 
+
+
+@media only screen and (max-width : 576px) {
+
+.content1{
+    margin-top: 30px;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+
+.segmentos {
+    div{
+        margin-top: 30px;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+margin: 0 auto;
+
+
+    }
+}
+
+
+
+}
+
+
+
 $primary:#C4B796;
 
 $theme-colors:
