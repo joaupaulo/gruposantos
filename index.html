@@ -9,11 +9,13 @@
     <script src="jquery/dist/jquery.js"></script>
     <script src="popper.js/dist/umd/popper.js"></script>
     <script src="bootstrap/dist/js/bootstrap.js"></script>
+
     
 </head>
 <body>
  
-  <nav class="navbar navbar-expand-lg navbar-light bg-corprincipal fixed-top">
+   
+  <nav class="navbar navbar-expand-lg navbar-light bg-corprincipal fixed-top menu">
     <a class="navbar-brand" href="#"><img src="images/logo.png"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -22,30 +24,29 @@
     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
       <ul class="navbar-nav ml-auto mt-2 mt-lg-0 p-4">
         <li class="nav-item">
-          <a class="nav-link text-primary" href="#">Área de atuação</a>
+          <a class="nav-link text-primary" href="#seg">Área de atuação</a>
         </li>
         <li class="nav-item">
           <a class="nav-link text-primary" href="#">Orçamento</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-primary" href="#">Contatos e informações</a>
+          <a class="nav-link text-primary" href="#info">Contatos e informações</a>
         </li>
       </ul>
     </div>
   </nav>
+  
   
 <section class="content1">
   <div>
     <h1>Grupo Santos</h1>
     <h3> É um escritório de advocacia dedicado a representar indivíduos e famílias em processos civis nos tribunais de Nova York e Nova Jersey. Orgulhamo-nos de representar clientes que enfrentam adversários mais poderosos, como corporações e companhias de seguros. Nosso foco é nos casos que envolvam reivindicações de seguro negadas, discriminação no emprego e danos pessoais.</h3>
   </div>
-
   <div> <img src="./images/themis.png" class="img-fluid"> </div>
-  
 </section>
 
 
-<div class="content2">
+<div class="content2" id="#">
   <div class="jumbotron bg-white text-center mt-5">
     <h2>Você já precisou de um advogado?</h2>
     <p class="lead">Você já precisou de um advogado? o que é assistência jurídica gratuita? de graça funciona? conheça seus direitos os direitos e deveres das pessoas e das comunidades endereços.</p>
@@ -56,8 +57,8 @@
 </div>
 
 
-<h2 class="text-center mt-5"> Nossos segmentos</h2>
-<div class="l-cards">
+<h2 class="text-center mt-5" > Nossos segmentos</h2>
+<div class="l-cards" id="seg">
   <article class="c-card">
     <div class="c-card__image">
       <img
@@ -113,7 +114,7 @@
 
 
 
-<section class="local">
+<section class="local" id="info">
  
    <h2 class="mt-5">Nossa Localização</h2>
 
@@ -131,6 +132,7 @@
 
 </section>
 
+<script src="script.js"></script>
 
 </body>
 </html>
