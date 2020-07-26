@@ -9,3 +9,10 @@
 <img width="50%" align="center" src="https://user-images.githubusercontent.com/61383712/88488458-9105a680-cf63-11ea-9508-4fb42ea1136c.png"/></p>
 
 
+</br>
+</br>
+</br>
+
+<h2 align="center"> <b> Segue abaixo screenshots do projeto! </b> (TELA NORMAL) </h2>
+
+<img align="center" src= "https://user-images.githubusercontent.com/61383712/88488566-71bb4900-cf64-11ea-9556-ec332fdf06bb.png"/>
