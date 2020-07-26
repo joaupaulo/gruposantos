@@ -5,5 +5,6 @@
 
 <h2 align="center"> <b> Segue abaixo screenshots do projeto! </b> (MOTO G4) </h2>
 
-![joaupaulo github io_gruposantos_(Pixel 2 XL)](https://user-images.githubusercontent.com/61383712/88488458-9105a680-cf63-11ea-9508-4fb42ea1136c.pn
+<img width="50%" align="center" src="https://user-images.githubusercontent.com/61383712/88488458-9105a680-cf63-11ea-9508-4fb42ea1136c.png"/>
+
 
